@@ -34,7 +34,7 @@ ____
 
 ## Learning Diary 
 
-At the moment i dont have the Time to practice every Day, so there might be a bt of time between "Days".
+At the moment i dont have the Time to practice every Day, so there might be a bit of time between "Days".
 
 ### Day 1  
 I wrote FizzBizz in C - so nothing big, but it is a start. 
