@@ -12,7 +12,6 @@ void fizzbizz(int n){
         }else if(i%5 == 0){
             printf("Bizz\n");
         } else{
-            //char iAsChar = i+'0';
             printf("%d",i);
             printf("\n");
         }
